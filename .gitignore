@@ -13,3 +13,5 @@ develop-eggs/
 
 # vim
 *.swp
+.project
+.pydevproject
